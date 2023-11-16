@@ -28,7 +28,7 @@ display: inline;
 
 #project-container, #aboutme {
   margin: 0 auto;
-  width: 90%
+  width: 90%;
   max-width: 600px;
 }
 
